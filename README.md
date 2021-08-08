@@ -1,37 +1,57 @@
-# Next.js example
 
-## How to use
+# Ui Lib Task
 
-Download the example [or clone the repo](https://github.com/mui-org/material-ui):
+A nice admin dashboard which was given by **UI Lib** as an intern task.
 
-<!-- #default-branch-switch -->
 
-```sh
-curl https://codeload.github.com/mui-org/material-ui/tar.gz/next | tar -xz --strip=2  material-ui-next/examples/nextjs
-cd nextjs
+
+
+## Demo
+
+https://ui-lib-task.herokuapp.com/
+  
+## Deployment
+
+I used Heroku for deploying the website
+## Tech Stack
+
+**Client:** JavaScript, Next.js, Material UI
+
+  
+## Screenshots
+
+![App Screenshot](https://i.ibb.co/86csb8y/screenshot.png)
+
+![App Screenshot](https://i.ibb.co/2Z0K2Fw/screenshot-2.png)
+
+  
+## Run Locally
+
+`N.B: I am using Yarn Package Manager`
+
+
+Clone the project
+
+```bash
+  git clone https://link-to-project
 ```
 
-Install it and run:
+Go to the project directory
 
-```sh
-npm install
-npm run dev
+```bash
+  cd my-project
 ```
 
-or:
+Install dependencies
 
-<!-- #default-branch-switch -->
+```bash
+  yarn
+```
 
-[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/mui-org/material-ui/tree/next/examples/nextjs)
+Start the server
 
-## The idea behind the example
+```bash
+  yarn dev
+```
 
-The project uses [Next.js](https://github.com/zeit/next.js), which is a framework for server-rendered React apps.
-It includes `@material-ui/core` and its peer dependencies, including `emotion`, the default style engine in Material-UI v5.
-If you prefer, you can [use styled-components instead](https://next.material-ui.com/guides/interoperability/#styled-components).
-
-## The link component
-
-Next.js has [a custom Link component](https://nextjs.org/docs/api-reference/next/link).
-The example folder provides adapters for usage with Material-UI.
-More information [in the documentation](https://next.material-ui.com/guides/routing/#next-js).
+  
