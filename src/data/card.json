@@ -1,0 +1,35 @@
+[
+  {
+    "title": "New Leds",
+    "icon": "https://i.ibb.co/vVQ8GqT/unknown.png",
+    "id": 1,
+    "number": "205",
+    "color1": "#663399",
+    "color2": "#F2F1FE"
+  },
+  {
+    "title": "Sales",
+    "icon": "https://i.ibb.co/XYpSJRL/Sales.png",
+    "id": 2,
+    "number": "$4021",
+    "color1": "#3981F7",
+
+    "color2": "#C5DBFF"
+  },
+  {
+    "title": "Orders",
+    "icon": "https://i.ibb.co/dLnHVby/Orders.png",
+    "id": 3,
+    "number": "80",
+    "color1": "#5DAE49",
+    "color2": "#BCDDB3"
+  },
+  {
+    "title": "Expense",
+    "icon": "https://i.ibb.co/r4SkFmj/expense.png",
+    "id": 4,
+    "number": "$1200",
+    "color1": "#FFC620",
+    "color2": "#FFF6E0"
+  }
+]

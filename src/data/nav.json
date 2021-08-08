@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Dashboard",
+    "icon": "https://i.ibb.co/dJy8hvL/analytics.png",
+    "id": 1,
+    "path": "/"
+  },
+  {
+    "title": "Table",
+    "icon": "https://i.ibb.co/PrWcC21/security.png",
+    "id": 2
+  },
+  {
+    "title": "Clipboard",
+    "icon": "https://i.ibb.co/B2MY9LC/clipboard.png",
+    "id": 3
+  },
+  {
+    "title": "Doc",
+    "icon": "https://i.ibb.co/C6Y4QXj/doc.png",
+    "id": 4
+  },
+  {
+    "title": "Touch",
+    "icon": "https://i.ibb.co/rw20yfQ/touch.png",
+    "id": 5
+  }
+]
